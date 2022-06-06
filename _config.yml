@@ -1,2 +1,1 @@
-#theme: jekyll-theme-architect
-baseurl: "/jekyll-atlantic-theme/"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
